@@ -1,0 +1,134 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 2967685 */
+  src: url('//at.alicdn.com/t/font_2967685_wr9c0hdf0f.woff2?t=1638764633076') format('woff2'),
+       url('//at.alicdn.com/t/font_2967685_wr9c0hdf0f.woff?t=1638764633076') format('woff'),
+       url('//at.alicdn.com/t/font_2967685_wr9c0hdf0f.ttf?t=1638764633076') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-liebiao:before {
+  content: "\eaf8";
+}
+
+.icon-androidgengduo:before {
+  content: "\e78d";
+}
+
+.icon-shixin:before {
+  content: "\e635";
+}
+
+.icon-zhibo1:before {
+  content: "\e8c1";
+}
+
+.icon-diantaizhibo:before {
+  content: "\e65b";
+}
+
+.icon-shanchu:before {
+  content: "\e601";
+}
+
+.icon-31paixingbang:before {
+  content: "\e602";
+}
+
+.icon-pengyou:before {
+  content: "\e746";
+}
+
+.icon-shanchu1:before {
+  content: "\e74b";
+}
+
+.icon-suiji:before {
+  content: "\e60a";
+}
+
+.icon-fenxiang:before {
+  content: "\e86e";
+}
+
+.icon-huiyuan:before {
+  content: "\e8a6";
+}
+
+.icon-guankanzhibo:before {
+  content: "\e65e";
+}
+
+.icon-huiyuan1:before {
+  content: "\e619";
+}
+
+.icon-column:before {
+  content: "\e83c";
+}
+
+.icon-tuijian:before {
+  content: "\e67d";
+}
+
+.icon-bofang:before {
+  content: "\e624";
+}
+
+.icon-zanting:before {
+  content: "\eaea";
+}
+
+.icon-gedan:before {
+  content: "\e66a";
+}
+
+.icon-search:before {
+  content: "\e82e";
+}
+
+.icon-24gl-repeat2:before {
+  content: "\ea75";
+}
+
+.icon-24gl-repeatOnce2:before {
+  content: "\ea76";
+}
+
+.icon-youqianjin:before {
+  content: "\e6af";
+}
+
+.icon-zuoqianjin:before {
+  content: "\e6b9";
+}
+
+.icon-jiangbei:before {
+  content: "\e603";
+}
+
+.icon-search1:before {
+  content: "\e6e1";
+}
+
+.icon-zhibo:before {
+  content: "\e60c";
+}
+
+.icon-tuijian1:before {
+  content: "\e629";
+}
+
+.icon-31pinglun:before {
+  content: "\e600";
+}
+
+.icon-pinglun:before {
+  content: "\e663";
+}
